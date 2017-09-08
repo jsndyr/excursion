@@ -1,3 +1,4 @@
+/* Tab-based Styles */
 body {
 	background-color: black;
 	font-family: Verdana, sans-serif;
@@ -10,6 +11,7 @@ h2 {
 	font-weight: 300;
 }
 
+/* class-based Styles */
 .tophat {
 	font-size: 50px;
 	display: block;
